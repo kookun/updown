@@ -7,3 +7,5 @@
 * Gun
   * Ssafy Academy(2018~)
   * Computer programming
+* NADAEHO
+  * 오졌다리
